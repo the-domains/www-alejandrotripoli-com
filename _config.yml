@@ -1,0 +1,28 @@
+name: www.alejandrotripoli.com
+favicon: null
+layout_spectrum: 0.18595857010222971
+typography_spectrum: 0.7100155493244529
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.472200051182881
+  lightness: 0.9340462852269411
+  saturation: 0.8035824501421303
+  rhythmicContrast: 0.6891197329387069
+purpose: []
